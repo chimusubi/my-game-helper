@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-game-helper/static/css/main.b41af8a7.css",
+    "main.js": "/my-game-helper/static/js/main.65b613fb.js",
+    "index.html": "/my-game-helper/index.html",
+    "main.b41af8a7.css.map": "/my-game-helper/static/css/main.b41af8a7.css.map",
+    "main.65b613fb.js.map": "/my-game-helper/static/js/main.65b613fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b41af8a7.css",
+    "static/js/main.65b613fb.js"
+  ]
+}
